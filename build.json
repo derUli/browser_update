@@ -1,0 +1,14 @@
+{
+	"id": "browser_update",
+	"version": "1.0.0",
+	"description": "Remind users to update their browser in an unobtrusive way ",
+	"categories": [
+		"browser",
+		"update",
+		"notice",
+		"notification",
+		"upgrade",
+		"compatiblity"
+	],
+	"compatible_from": "2017.3.12"
+}
