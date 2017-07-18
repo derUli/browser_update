@@ -1,7 +1,7 @@
 {
-	"id": "browser_update",
+	"id": "updatemybrowser_org",
 	"version": "1.0.0",
-	"description": "Remind users to update their browser in an unobtrusive way ",
+	"description": "updatemybrowser.org is an initiative to spread modern browsers among all internet users. ",
 	"categories": [
 		"browser",
 		"update",

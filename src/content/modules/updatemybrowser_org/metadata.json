@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"embed": false,
 	"controllers": {
-		"BrowserUpdate": "BrowserUpdate.php"
+		"UpdateMyBrowser": "UpdateMyBrowser.php"
 	},
-	"main_class": "BrowserUpdate"
+	"main_class": "UpdateMyBrowser"
 }
